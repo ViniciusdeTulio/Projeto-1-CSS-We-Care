@@ -22,5 +22,5 @@
 <br>
 <br>
 
-<img src="">
-<img src="">
+<img src="https://github.com/ViniciusdeTulio/Projeto-We-Care-DEV-CLUB/blob/master/img/Desktop.png?raw=true">
+<img src="https://github.com/ViniciusdeTulio/Projeto-We-Care-DEV-CLUB/blob/master/img/Mobile.png?raw=true">
